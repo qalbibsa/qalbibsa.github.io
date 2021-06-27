@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en-US">
+
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Geosains - Persebaran Data Gempa Bumi</title>
+
+    <!-- Stylesheets -->
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css"
+      integrity="sha512-xodZBNTC5n17Xt2atTPuE1HxjVMSvLVW9ocqUKLsCC5CXdbqCmblAshOMAS6/keqq/sMZMZ19scR4PsZChSR7A=="
+      crossorigin="" />
+    <link href="https://fonts.googleapis.com/css2?family=Karla:wght@400;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="css/Leaflet.Coordinates-0.1.5.css" />
+    <link rel="stylesheet" href="css/normalize.min.css" />
+    <link rel="stylesheet" href="css/style.css" />
+
+    <!-- Scripts -->
+    <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"
+      integrity="sha512-XQoYMqMTK8LvdxXYG3nZ448hOEQiglfqkJs1NOQV44cWnUrBc8PkAOcXy20w0vlaXaVUearIOBhiXZ5V3ynxwA=="
+      crossorigin="" defer></script>
+    <script src="js/Leaflet.Coordinates-0.1.5.min.js" defer></script>
+    <script src="js/app.js" defer></script>
+    <script src="js/mobilenav.js" defer></script>
+  </head>
+
+  <body>
+    <header>
+      <nav class="center-content">
+        <a class="title" href="/">
+          <img src="assets/ui.png" alt="Universitas Indonesia">
+          Geosains <br /> Universitas Indonesia
+        </a>
+
+        <button class="menu-button">
+          <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16" />
+          </svg>
+        </button>
+        <ul class="nav-items">
+          <li><a href="/index.html#learn">Learn</a></li>
+          <li><a href="/index.html#resource">Resource</a></li>
+          <li><a href="/map.html">Map</a></li>
+        </ul>
+      </nav>
+    </header>
+
+    <div id="map-container"></div>
+
+    <div class="offcanvas">
+      <div class="offcanvas-nav">
+        <ul>
+          <li><a href="/">Home</a></li>
+          <li><a href="/index.html#learn">Learn</a></li>
+          <li><a href="/index.html#resource">Resource</a></li>
+          <li><a href="/map.html">Map</a></li>
+        </ul>
+      </div>
+    </div>
+  </body>
+
+</html>

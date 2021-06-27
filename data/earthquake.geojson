@@ -1,0 +1,1286 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.91,
+                    -7.21
+                ]
+            },
+            "properties": {
+                "Date": "2018/01/23",
+                "Time": "13:34:50 WIB",
+                "Region": "Banten",
+                "Latitude": -7.21,
+                "Longitude": 105.91,
+                "Depth": "10 km",
+                "Magnitude": 6.4,
+                "MT": "Tidak Tsunami",
+                "Reference": "http://www.bpbd.jabarprov.go.id/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    96.21,
+                    4.66
+                ]
+            },
+            "properties": {
+                "Date": "2018/02/08",
+                "Time": "9:52:47 WIB",
+                "Region": "Aceh",
+                "Latitude": 4.66,
+                "Longitude": 96.21,
+                "Depth": "10 km",
+                "Magnitude": 5.1,
+                "MT": "Tidak Tsunami",
+                "Reference": "https://aceh.tribunnews.com/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    142.72,
+                    -6.09
+                ]
+            },
+            "properties": {
+                "Date": "2018/02/25",
+                "Time": "00:44:45 WIB",
+                "Region": "Papua",
+                "Latitude": -6.09,
+                "Longitude": 142.72,
+                "Depth": "96 km",
+                "Magnitude": 7.6,
+                "MT": "Tidak Tsunami",
+                "Reference": "https://tribunnews.com/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    126.81,
+                    1.41
+                ]
+            },
+            "properties": {
+                "Date": "2018/04/18",
+                "Time": "02:30:32 WIB",
+                "Region": "Maluku Utara",
+                "Latitude": 1.41,
+                "Longitude": 126.81,
+                "Depth": "34 km",
+                "Magnitude": 6,
+                "MT": "Tidak Tsunami",
+                "Reference": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    109.65,
+                    -7.21
+                ]
+            },
+            "properties": {
+                "Date": "2018/04/18",
+                "Time": "6:28:35 WIB",
+                "Region": "Jawa Tengah",
+                "Latitude": -7.21,
+                "Longitude": 109.65,
+                "Depth": "4 km",
+                "Magnitude": 4.4,
+                "MT": "Tidak Tsunami",
+                "Reference": "https://merdeka.com/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.89,
+                    -6.9
+                ]
+            },
+            "properties": {
+                "Date": "2018/06/13",
+                "Time": "13:06:41 WIB",
+                "Region": "Jawa Timur",
+                "Latitude": -6.9,
+                "Longitude": 113.89,
+                "Depth": "21 km",
+                "Magnitude": 4.7,
+                "MT": "Tidak Tsunami",
+                "Reference": "https://news.okezone.com/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.41,
+                    -6.91
+                ]
+            },
+            "properties": {
+                "Date": "2018/07/07",
+                "Time": "10:56:06 WIB",
+                "Region": "Banten",
+                "Latitude": -6.91,
+                "Longitude": 106.41,
+                "Depth": "5 km",
+                "Magnitude": 4.4,
+                "MT": "Tidak Tsunami",
+                "Reference": "https://regional.kompas.com/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.4,
+                    -6.92
+                ]
+            },
+            "properties": {
+                "Date": "2018/07/07",
+                "Time": "11:01:15 WIB",
+                "Region": "Banten",
+                "Latitude": -6.92,
+                "Longitude": 106.4,
+                "Depth": "5 km",
+                "Magnitude": 4.1,
+                "MT": "Tidak Tsunami",
+                "Reference": "https://regional.kompas.com/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.37,
+                    -6.94
+                ]
+            },
+            "properties": {
+                "Date": "2018/07/07",
+                "Time": "11:24:20 WIB",
+                "Region": "Banten",
+                "Latitude": -6.94,
+                "Longitude": 106.37,
+                "Depth": "14 km",
+                "Magnitude": 2.5,
+                "MT": "Tidak Tsunami",
+                "Reference": "https://regional.kompas.com/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.35,
+                    -6.97
+                ]
+            },
+            "properties": {
+                "Date": "2018/07/07",
+                "Time": "12:18:22 WIB",
+                "Region": "Banten",
+                "Latitude": -6.97,
+                "Longitude": 106.35,
+                "Depth": "6 km",
+                "Magnitude": 4.5,
+                "MT": "Tidak Tsunami",
+                "Reference": "https://regional.kompas.com/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.34,
+                    -6.98
+                ]
+            },
+            "properties": {
+                "Date": "2018/07/07",
+                "Time": "12:23:45 WIB",
+                "Region": "Banten",
+                "Latitude": -6.98,
+                "Longitude": 106.34,
+                "Depth": "6 km",
+                "Magnitude": 4.6,
+                "MT": "Tidak Tsunami",
+                "Reference": "https://regional.kompas.com/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.7,
+                    -0.97
+                ]
+            },
+            "properties": {
+                "Date": "2018/07/21",
+                "Time": "14:58:17 WIB",
+                "Region": "Sumatra Barat",
+                "Latitude": -0.97,
+                "Longitude": 100.7,
+                "Depth": "10 km",
+                "Magnitude": 5.5,
+                "MT": "Tidak Tsunami",
+                "Reference": "https://pekanbaru.tribunnews.com/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    116.5,
+                    -8.32
+                ]
+            },
+            "properties": {
+                "Date": "2018/07/28",
+                "Time": "05:47:38 WIB",
+                "Region": "Nusa Tenggara Barat",
+                "Latitude": -8.32,
+                "Longitude": 116.5,
+                "Depth": "7 km",
+                "Magnitude": 6.5,
+                "MT": "Tidak Tsunami",
+                "Reference": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    116.46,
+                    -8.34
+                ]
+            },
+            "properties": {
+                "Date": "2018/08/05",
+                "Time": "18:46:37 WIB",
+                "Region": "Nusa Tenggara Barat",
+                "Latitude": -8.34,
+                "Longitude": 116.46,
+                "Depth": "15 km",
+                "Magnitude": 6.9,
+                "MT": "Tsunami",
+                "Reference": "https://tempo.co"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    116.22,
+                    -8.34
+                ]
+            },
+            "properties": {
+                "Date": "2018/08/09",
+                "Time": "12:25:32 WIB",
+                "Region": "Nusa Tenggara Barat",
+                "Latitude": -8.34,
+                "Longitude": 116.22,
+                "Depth": "9 km",
+                "Magnitude": 5.8,
+                "MT": "Tidak Tsunami",
+                "Reference": "https://tempo.co"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    116.58,
+                    -8.36
+                ]
+            },
+            "properties": {
+                "Date": "2018/08/09",
+                "Time": "11:10:23 WIB",
+                "Region": "Nusa Tenggara Barat",
+                "Latitude": -8.36,
+                "Longitude": 116.58,
+                "Depth": "9 km",
+                "Magnitude": 6.5,
+                "MT": "Tidak Tsunami",
+                "Reference": "https://tempo.co"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    116.66,
+                    -8.3
+                ]
+            },
+            "properties": {
+                "Date": "2018/08/19",
+                "Time": "21:56:27 WIB",
+                "Region": "Nusa Tenggara Barat",
+                "Latitude": -8.3,
+                "Longitude": 116.66,
+                "Depth": "9 km",
+                "Magnitude": 6.8,
+                "MT": "Tidak Tsunami",
+                "Reference": "https://bnpb.go.id/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.82,
+                    -0.35
+                ]
+            },
+            "properties": {
+                "Date": "2018/09/28",
+                "Time": "13:59:56 WIB",
+                "Region": "Sulawesi Tengah",
+                "Latitude": -0.35,
+                "Longitude": 119.82,
+                "Depth": "10 km",
+                "Magnitude": 5.9,
+                "MT": "Tidak Tsunami",
+                "Reference": "https://bnpb.go.id/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.82,
+                    -0.18
+                ]
+            },
+            "properties": {
+                "Date": "2018/09/28",
+                "Time": "17:02:44 WIB",
+                "Region": "Sulawesi Tengah",
+                "Latitude": -0.18,
+                "Longitude": 119.82,
+                "Depth": "11 km",
+                "Magnitude": 7.4,
+                "MT": "Tsunami",
+                "Reference": "https://bnpb.go.id/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.2,
+                    -10.42
+                ]
+            },
+            "properties": {
+                "Date": "2018/10/02",
+                "Time": "07:16:44 WIB",
+                "Region": "Nusa Tenggara Timur",
+                "Latitude": -10.42,
+                "Longitude": 120.2,
+                "Depth": "23 km",
+                "Magnitude": 6,
+                "MT": "Tidak Tsunami",
+                "Reference": "https://www.kompas.com/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.23,
+                    -3.82
+                ]
+            },
+            "properties": {
+                "Date": "2018/10/09",
+                "Time": "08:03:55 WIB",
+                "Region": "Sulawesi Selatan",
+                "Latitude": -3.82,
+                "Longitude": 120.23,
+                "Depth": "5 km",
+                "Magnitude": 4.2,
+                "MT": "Tidak Tsunami",
+                "Reference": "https://beritakotamakasar.fajar.co.id/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.43,
+                    -7.39
+                ]
+            },
+            "properties": {
+                "Date": "2018/10/10",
+                "Time": "18:44:56 WIB",
+                "Region": "Jawa Timur",
+                "Latitude": -7.39,
+                "Longitude": 114.43,
+                "Depth": "6 km",
+                "Magnitude": 6.1,
+                "MT": "Tidak Tsunami",
+                "Reference": "https://web.bpbd.jatimprov.go.id/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.49,
+                    -2.93
+                ]
+            },
+            "properties": {
+                "Date": "2018/11/05",
+                "Time": "01:35:53 WIB",
+                "Region": "Sulawesi Barat",
+                "Latitude": -2.93,
+                "Longitude": 119.49,
+                "Depth": "6 km",
+                "Magnitude": 5.2,
+                "MT": "Tidak Tsunami",
+                "Reference": "https://news.detik.com/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    116.04,
+                    -8.38
+                ]
+            },
+            "properties": {
+                "Date": "2018/12/06",
+                "Time": "08:02:46 WIB",
+                "Region": "Nusa Tenggara Barat",
+                "Latitude": -8.38,
+                "Longitude": 116.04,
+                "Depth": "11 km",
+                "Magnitude": 5.4,
+                "MT": "Tidak Tsunami",
+                "Reference": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.3,
+                    -3.74
+                ]
+            },
+            "properties": {
+                "Date": "2018/12/16",
+                "Time": "05:06:46 WIB",
+                "Region": "Sulawesi Selatan",
+                "Latitude": -3.74,
+                "Longitude": 120.3,
+                "Depth": "2 km",
+                "Magnitude": 4.4,
+                "MT": "Tidak Tsunami",
+                "Reference": "https://pusatkrisis.kemkes.go.id/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.1,
+                    -1.4
+                ]
+            },
+            "properties": {
+                "Date": "2018/12/28",
+                "Time": "10:03:33 WIB",
+                "Region": "Papua Barat",
+                "Latitude": -1.4,
+                "Longitude": 134.1,
+                "Depth": "26 km",
+                "Magnitude": 6.1,
+                "MT": "Tidak Tsunami",
+                "Reference": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    98.49,
+                    3.33
+                ]
+            },
+            "properties": {
+                "Date": "2017/01/16",
+                "Time": "19:42:12 WIB",
+                "Region": "Sumatra Utara",
+                "Latitude": 3.33,
+                "Longitude": 98.49,
+                "Depth": "2 km",
+                "Magnitude": 5.6,
+                "MT": "Tidak Tsunami",
+                "Reference": "http://m.inilah.com/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    128.52,
+                    2.4
+                ]
+            },
+            "properties": {
+                "Date": "2017/03/08",
+                "Time": "14:38:42 WIB",
+                "Region": "Maluku Utara",
+                "Latitude": 2.4,
+                "Longitude": 128.52,
+                "Depth": "10 km",
+                "Magnitude": 5.4,
+                "MT": "Tidak Tsunami",
+                "Reference": "http://kaltara.antaranews.com/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    115.25,
+                    -8.88
+                ]
+            },
+            "properties": {
+                "Date": "2017/03/22",
+                "Time": "06:10:27 WIB",
+                "Region": "Bali",
+                "Latitude": -8.88,
+                "Longitude": 115.25,
+                "Depth": "117 km",
+                "Magnitude": 6.4,
+                "MT": "Tidak Tsunami",
+                "Reference": "https://www.republika.co.id/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.86,
+                    -8.1
+                ]
+            },
+            "properties": {
+                "Date": "2017/04/24",
+                "Time": "01:01:10 WIB",
+                "Region": "Jawa Barat",
+                "Latitude": -8.1,
+                "Longitude": 107.86,
+                "Depth": "13 km",
+                "Magnitude": 5.4,
+                "MT": "Tidak Tsunami",
+                "Reference": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.41,
+                    -1.25
+                ]
+            },
+            "properties": {
+                "Date": "2017/05/29",
+                "Time": "09:35:22 WIB",
+                "Region": "Sulawesi Tengah",
+                "Latitude": -1.25,
+                "Longitude": 120.41,
+                "Depth": "16 km",
+                "Magnitude": 6.6,
+                "MT": "Tidak Tsunami",
+                "Reference": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    99.19,
+                    1.37
+                ]
+            },
+            "properties": {
+                "Date": "2017/07/14",
+                "Time": "08:25:16 WIB",
+                "Region": "Sumatra Utara",
+                "Latitude": 1.37,
+                "Longitude": 99.19,
+                "Depth": "10 km",
+                "Magnitude": 5.5,
+                "MT": "Tidak Tsunami",
+                "Reference": "https://www.republika.co.id/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.99,
+                    0.46
+                ]
+            },
+            "properties": {
+                "Date": "2017/07/15",
+                "Time": "19:12:12 WIB",
+                "Region": "Gorontalo",
+                "Latitude": 0.46,
+                "Longitude": 121.99,
+                "Depth": "108 km",
+                "Magnitude": 6,
+                "MT": "Tidak Tsunami",
+                "Reference": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.8,
+                    -7.22
+                ]
+            },
+            "properties": {
+                "Date": "2017/07/18",
+                "Time": "12:58:15 WIB",
+                "Region": "Jawa Barat",
+                "Latitude": -7.22,
+                "Longitude": 107.8,
+                "Depth": "10 km",
+                "Magnitude": 3.7,
+                "MT": "Tidak Tsunami",
+                "Reference": "http://nasional.tempo.co/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    126.03,
+                    -3.42
+                ]
+            },
+            "properties": {
+                "Date": "2017/07/27",
+                "Time": "19:08:39 WIB",
+                "Region": "Maluku",
+                "Latitude": -3.42,
+                "Longitude": 126.03,
+                "Depth": "16 km",
+                "Magnitude": 5.7,
+                "MT": "Tidak Tsunami",
+                "Reference": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.61,
+                    -3.78
+                ]
+            },
+            "properties": {
+                "Date": "2017/08/13",
+                "Time": "10:08:11 WIB",
+                "Region": "Bengkulu",
+                "Latitude": -3.78,
+                "Longitude": 101.61,
+                "Depth": "35 km",
+                "Magnitude": 6.4,
+                "MT": "Tidak Tsunami",
+                "Reference": "https://www.antaranews.com/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    99.66,
+                    -1.3
+                ]
+            },
+            "properties": {
+                "Date": "2017/09/01",
+                "Time": "00:06:54 WIB",
+                "Region": "Sumatra Barat",
+                "Latitude": -1.3,
+                "Longitude": 99.66,
+                "Depth": "10 km",
+                "Magnitude": 6.2,
+                "MT": "Tidak Tsunami",
+                "Reference": "http://www.harianhaluan.com/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    127.48,
+                    0.91
+                ]
+            },
+            "properties": {
+                "Date": "2017/09/28",
+                "Time": "13:02:21 WIB",
+                "Region": "Maluku Utara",
+                "Latitude": 0.91,
+                "Longitude": 127.48,
+                "Depth": "5 km",
+                "Magnitude": 4.3,
+                "MT": "Tidak Tsunami",
+                "Reference": "https://okezone.com/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    123.47,
+                    -8.26
+                ]
+            },
+            "properties": {
+                "Date": "2017/10/10",
+                "Time": "05:23:47 WIB",
+                "Region": "Nusa Tenggara Timur",
+                "Latitude": -8.26,
+                "Longitude": 123.47,
+                "Depth": "10 km",
+                "Magnitude": 4.9,
+                "MT": "Tidak Tsunami",
+                "Reference": "https://republika.co.id/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.75,
+                    -2.65
+                ]
+            },
+            "properties": {
+                "Date": "2017/10/28",
+                "Time": "19:15:22 WIB",
+                "Region": "Papua",
+                "Latitude": -2.65,
+                "Longitude": 140.75,
+                "Depth": "4 km",
+                "Magnitude": 4.7,
+                "MT": "Tidak Tsunami",
+                "Reference": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    127.83,
+                    -3.69
+                ]
+            },
+            "properties": {
+                "Date": "2017/10/31",
+                "Time": "18:50:52 WIB",
+                "Region": "Maluku",
+                "Latitude": -3.69,
+                "Longitude": 127.83,
+                "Depth": "39 km",
+                "Magnitude": 6.1,
+                "MT": "Tidak Tsunami",
+                "Reference": "https://nasional.tempo.co/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    128.18,
+                    2.51
+                ]
+            },
+            "properties": {
+                "Date": "2017/11/18",
+                "Time": "23:07:05 WIB",
+                "Region": "Maluku Utara",
+                "Latitude": 2.51,
+                "Longitude": 128.18,
+                "Depth": "39 km",
+                "Magnitude": 5.7,
+                "MT": "Tidak Tsunami",
+                "Reference": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    102.15,
+                    -3.16
+                ]
+            },
+            "properties": {
+                "Date": "2017/12/06",
+                "Time": "03:46:29 WIB",
+                "Region": "Bengkulu",
+                "Latitude": -3.16,
+                "Longitude": 102.15,
+                "Depth": "10 km",
+                "Magnitude": 5.1,
+                "MT": "Tidak Tsunami",
+                "Reference": "http://regional.kompas.com/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    108.11,
+                    -7.75
+                ]
+            },
+            "properties": {
+                "Date": "2017/12/15",
+                "Time": "11:47:58 WIB",
+                "Region": "Jawa Barat",
+                "Latitude": -7.75,
+                "Longitude": 108.11,
+                "Depth": "107 km",
+                "Magnitude": 6.9,
+                "MT": "Tidak Tsunami",
+                "Reference": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    127.28,
+                    -3.8
+                ]
+            },
+            "properties": {
+                "Date": "2016/01/17",
+                "Time": "06:22:31 WIB",
+                "Region": "Maluku",
+                "Latitude": -3.8,
+                "Longitude": 127.28,
+                "Depth": "10 km",
+                "Magnitude": 5.4,
+                "MT": "Tidak Tsunami",
+                "Reference": "http://www.vsi.esdm.go.id/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.34,
+                    -9.77
+                ]
+            },
+            "properties": {
+                "Date": "2016/02/12",
+                "Time": "17:02:24 WIB",
+                "Region": "Nusa Tenggara Timur",
+                "Latitude": -9.77,
+                "Longitude": 119.34,
+                "Depth": "10 km",
+                "Magnitude": 6.6,
+                "MT": "Tidak Tsunami",
+                "Reference": "https://daerah.sindonews.com/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    127.38,
+                    1.03
+                ]
+            },
+            "properties": {
+                "Date": "2016/02/24",
+                "Time": "03:47:36 WIB",
+                "Region": "Maluku Utara",
+                "Latitude": 1.03,
+                "Longitude": 127.38,
+                "Depth": "10 km",
+                "Magnitude": 5.1,
+                "MT": "Tidak Tsunami",
+                "Reference": "https://kompas.com/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    94.39,
+                    -4.92
+                ]
+            },
+            "properties": {
+                "Date": "2016/03/02",
+                "Time": "19:49:47 WIB",
+                "Region": "Samudra Hindia",
+                "Latitude": -4.92,
+                "Longitude": 94.39,
+                "Depth": "10 km",
+                "Magnitude": 7.8,
+                "MT": "Tsunami",
+                "Reference": "https://sindonews.com/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    116.06,
+                    -8.48
+                ]
+            },
+            "properties": {
+                "Date": "2016/03/31",
+                "Time": "16:34:43 WIB",
+                "Region": "Nusa Tenggara Barat",
+                "Latitude": -8.48,
+                "Longitude": 116.06,
+                "Depth": "13 km",
+                "Magnitude": 4.7,
+                "MT": "Tidak Tsunami",
+                "Reference": "https://viva.co.id/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    102.07,
+                    -4.37
+                ]
+            },
+            "properties": {
+                "Date": "2016/04/10",
+                "Time": "09:14:34 WIB",
+                "Region": "Bengkulu",
+                "Latitude": -4.37,
+                "Longitude": 102.07,
+                "Depth": "61 km",
+                "Magnitude": 5.8,
+                "MT": "Tidak Tsunami",
+                "Reference": "https://okezone.com/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.46,
+                    -2.29
+                ]
+            },
+            "properties": {
+                "Date": "2016/06/02",
+                "Time": "05:56:01 WIB",
+                "Region": "Sumatra Barat",
+                "Latitude": -2.29,
+                "Longitude": 100.46,
+                "Depth": "72 km",
+                "Magnitude": 6.5,
+                "MT": "Tidak Tsunami",
+                "Reference": "https://daerah.sindonews.com/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    126.37,
+                    1.37
+                ]
+            },
+            "properties": {
+                "Date": "2016/06/08",
+                "Time": "02:15:14 WIB",
+                "Region": "Maluku Utara",
+                "Latitude": 1.37,
+                "Longitude": 126.37,
+                "Depth": "58 km",
+                "Magnitude": 6.4,
+                "MT": "Tidak Tsunami",
+                "Reference": "https://regional.kompas.com/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    117.86,
+                    -8.23
+                ]
+            },
+            "properties": {
+                "Date": "2016/08/01",
+                "Time": "06:40:01 WIB",
+                "Region": "Nusa Tenggara Barat",
+                "Latitude": -8.23,
+                "Longitude": 117.86,
+                "Depth": "18 km",
+                "Magnitude": 5.6,
+                "MT": "Tidak Tsunami",
+                "Reference": "https://www.tempo.co/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.54,
+                    -7.25
+                ]
+            },
+            "properties": {
+                "Date": "2016/11/06",
+                "Time": "06:44:14 WIB",
+                "Region": "Jawa Barat",
+                "Latitude": -7.25,
+                "Longitude": 107.54,
+                "Depth": "10 km",
+                "Magnitude": 4.2,
+                "MT": "Tidak Tsunami",
+                "Reference": "https://www.republika.co.id/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.12,
+                    -9.32
+                ]
+            },
+            "properties": {
+                "Date": "2016/11/16",
+                "Time": "22:10:11 WIB",
+                "Region": "Jawa Timur",
+                "Latitude": -9.32,
+                "Longitude": 113.12,
+                "Depth": "69 km",
+                "Magnitude": 6.2,
+                "MT": "Tidak Tsunami",
+                "Reference": "https://www.suryamalang.tribunnews.com/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    96.36,
+                    5.19
+                ]
+            },
+            "properties": {
+                "Date": "2017/12/07",
+                "Time": "05:03:36 WIB",
+                "Region": "Aceh",
+                "Latitude": 5.19,
+                "Longitude": 96.36,
+                "Depth": "10 km",
+                "Magnitude": 6.4,
+                "MT": "Tidak Tsunami",
+                "Reference": "https://www.acehtrend.co/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    111.69,
+                    -7.73
+                ]
+            },
+            "properties": {
+                "Date": "2015/06/25",
+                "Time": "10:35:29 WIB",
+                "Region": "Jawa Timur",
+                "Latitude": -7.73,
+                "Longitude": 111.69,
+                "Depth": "10 km",
+                "Magnitude": 4.2,
+                "MT": "Tidak Tsunami",
+                "Reference": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.53,
+                    -2.87
+                ]
+            },
+            "properties": {
+                "Date": "2015/07/27",
+                "Time": "04:41:23 WIB",
+                "Region": "Papua",
+                "Latitude": -2.87,
+                "Longitude": 138.53,
+                "Depth": "49 km",
+                "Magnitude": 7.2,
+                "MT": "Tidak Tsunami",
+                "Reference": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    131.27,
+                    -0.59
+                ]
+            },
+            "properties": {
+                "Date": "2015/09/24",
+                "Time": "22:53:28 WIB",
+                "Region": "Papua Barat",
+                "Latitude": -0.59,
+                "Longitude": 131.27,
+                "Depth": "10 km",
+                "Magnitude": 6.8,
+                "MT": "Tidak Tsunami",
+                "Reference": "https://okezone.com/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    124.94,
+                    -8.2
+                ]
+            },
+            "properties": {
+                "Date": "2015/11/04",
+                "Time": "10:44:19 WIB",
+                "Region": "Nusa Tenggara Timur",
+                "Latitude": -8.2,
+                "Longitude": 124.94,
+                "Depth": "89 km",
+                "Magnitude": 6.2,
+                "MT": "Tidak Tsunami",
+                "Reference": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    117.67,
+                    3.61
+                ]
+            },
+            "properties": {
+                "Date": "2015/12/21",
+                "Time": "01:47:37 WIB",
+                "Region": "Kalimantan Utara",
+                "Latitude": 3.61,
+                "Longitude": 117.67,
+                "Depth": "10 km",
+                "Magnitude": 6.1,
+                "MT": "Tidak Tsunami",
+                "Reference": "https://kaltim.tribunnews.com"
+            }
+        }
+    ]
+}
